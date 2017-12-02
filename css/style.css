@@ -22,8 +22,10 @@ body{
     position: absolute;
     border: 1px solid black;
     width: 306px;
-    height: 13.2%;
+    height: 12.3%;
     transform: translateY(-188%);
+    text-align: right;
+    font-size: 64px;
     z-index: 1;
 }
 
@@ -40,7 +42,7 @@ body{
 }
 
 .button{
-    border:1px solid black;
+    border:1px;
     margin: 0;
     height: 24%;
     width: 24%;
